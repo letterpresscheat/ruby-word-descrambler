@@ -157705,8 +157705,6 @@ novelly
 novels
 novelties
 novelty
-november
-novembers
 novemdecillion
 novemdecillions
 novena
@@ -273605,6 +273603,7 @@ yowling
 yowlings
 yowls
 yows
+yoyo
 yperite
 yperites
 ypight
